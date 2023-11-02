@@ -1,5 +1,7 @@
 rencana apa 
 -java
+  *ES6
+  *Java Script
 -php
 -interview
 -kepo
