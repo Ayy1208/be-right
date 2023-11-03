@@ -2,6 +2,7 @@ rencana apa
 -java
   *ES6
   *Java Script
+-css
 -html
 -php
 -interview
